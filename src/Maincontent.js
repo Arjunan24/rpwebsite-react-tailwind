@@ -3,6 +3,7 @@ import homeData from "./Datas/Home_page"
 
 function mainContent(){
     return(
+        <div>
 <div className="flex ">
     <div className=" w-full md:w-1/2 h-screen">
 
@@ -66,7 +67,31 @@ function mainContent(){
     </div>
 
 </div>
+<div className="p-4 ">
+<hr />
+</div>
 
+<div className="w-full flex p-3 px-20">
+    
+    <div className="w-full w-1/5 box-content h-10 w-1 p-3 border-2 border-blue-400 bg-white-200">
+    <h3>sss</h3>
+    </div>
+    <div className='w-full w-1/4 py-10'>
+    <hr/>
+    </div>
+    
+    <div className=" w-full w-1/5 box-content h-10 w-5 p-4 border-2 border-blue-400 bg-white-200">
+    <h3>sss</h3>
+    </div>
+    <div className='w-full w-1/4 py-10'>
+    <hr className="bg-blue-600"/>
+    </div>
+    <div className=" w-full w-1/5 box-content h-10 w-5 p-4 border-2 border-blue-400 bg-white-200">
+    <h3>sss</h3>
+    </div>
+
+</div>
+</div>
   )
 }
 export default mainContent
