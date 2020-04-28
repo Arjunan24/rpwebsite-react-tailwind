@@ -31,6 +31,7 @@ export default{
     shouldcourselogo:shouldcourselogo,
     shouldtakecourseheader:"Who should take this course ",
 shouldcontent:"IT and non-IT professionals , Students, Thought Leaders who want to check out on blockchain, its basics and use cases ",
+
 whycourseHeader:"Why this course with us?  ",
 involvesindustryheading:"Involves Industry Practitioners: ",
 involvescontent:"All the trainers handling sessions are seasoned professionals working on live projects involving these technologies. They bring on to table their real life project experiences and the current challenges in the industry. ",
@@ -42,17 +43,17 @@ marketcontent1:"As per Forbes the average salary(starting from beginning to expe
 marketcontent2:"As per Jobsite Indeed report globally for blockchain related products and services is expected to reach $7.7 billion in 2022,and related job posts, web search jumps 290 pc in India" ,
 blockchaininitives:"Some of the Indian Blockchain Initiatives",
 blockchaininitivescontent:"(source: cio.economictimes.indiatimes.com)",
-conten1:"Recently, SBI launched a blockchain-based exchange system for recovering NPAs. ",
-conten2:"State governments of tech hubs like Bengaluru are set to implement the blockchain.",
-conten3:"The NITI Aayog’s pilot project in blockchain – IndiaChain –  will also help in generating job opportunities in the sector.",
+content1:"Recently, SBI launched a blockchain-based exchange system for recovering NPAs. ",
+content2:"State governments of tech hubs like Bengaluru are set to implement the blockchain.",
+content3:"The NITI Aayog’s pilot project in blockchain – IndiaChain –  will also help in generating job opportunities in the sector.",
 pds:"Program Duration and Structure",
-conten4:"4 hours of ILT of which 1 hour is dedicated for discussion on Industry Usecases",
+content4:"4 hours of ILT of which 1 hour is dedicated for discussion on Industry Usecases",
 courseoutcomesheader:"Course Outcomes ",
-conten5:"Course Outcomes ",
+content5:"You would understand the basic technology, where it can be put to use, different tools available for implementing the same",
 Trainersheader:"Trainers",
 CourseCurriculumheader:"Course Curriculum",
 BlockchainConcepts :"Blockchain Concepts ",
-blocjchainworks:"How does Blockchain work?​",
+blockchainworks:"How does Blockchain work?​",
 register:"An insight into some industrial Blockchain platforms",
 industry:"Industry specific Use Cases​",
 enterpriseadoption:"Enterprise adoption challenges",
@@ -60,8 +61,11 @@ registerNow:"Register Now",
 
 //images
 mohanLogo:mohanlogo,
+mohan:"mohan",
 muthulogo:muthulogo,
+muthu:"muthu",
 umalogo:umalogo,
+uma:"uma shankar Somasekar"
 
 
  
